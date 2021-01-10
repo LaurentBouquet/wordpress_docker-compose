@@ -59,3 +59,7 @@ http://localhost:8080/
 ## Documentation
 https://hub.docker.com/_/wordpress
 
+
+## Publish Github releases action
+
+https://github.com/marketplace/actions/release-github-actions
