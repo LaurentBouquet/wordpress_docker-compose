@@ -38,7 +38,7 @@ volumes:
 ```
 
 
-## New Terminal
+## In terminal
 
 docker-compose up
 
