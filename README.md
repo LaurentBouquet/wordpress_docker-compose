@@ -63,3 +63,8 @@ https://hub.docker.com/_/wordpress
 ## Thanks
 
 Thanks to [technote-space](https://github.com/marketplace/actions/release-github-actions) for publish Github releases action.
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0
+```
