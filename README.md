@@ -19,7 +19,7 @@ services:
       WORDPRESS_DB_PASSWORD: examplepass
       WORDPRESS_DB_NAME: exampledb
     volumes:
-      - wordpress:/var/www/html
+      - ./wordpress:/var/www/html
 
   db:
     image: mysql:5.7
@@ -33,7 +33,7 @@ services:
       - db:/var/lib/mysql
 
 volumes:
-  wordpress:
+  wordpress:./wordpress
   db:
 ```
 
