@@ -60,6 +60,6 @@ http://localhost:8080/
 https://hub.docker.com/_/wordpress
 
 
-## Publish Github releases action
+## Thanks
 
-https://github.com/marketplace/actions/release-github-actions
+Thanks to [technote-space](https://github.com/marketplace/actions/release-github-actions) for publish Github releases action.
