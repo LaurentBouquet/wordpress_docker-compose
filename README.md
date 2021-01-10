@@ -9,7 +9,7 @@ version: '3.1'
 services:
 
   wordpress:
-    image: wordpress:5.6-php7.3-fpm-alpine
+    image: wordpress
     restart: always
     ports:
       - 8080:80
